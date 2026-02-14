@@ -1,2 +1,3 @@
 Hello my course is Devops
 My name is Sonakshi
+Clone GitHub repository using Visual Studio Code IDE

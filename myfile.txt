@@ -4,3 +4,4 @@ Adding line2
 Adding line2
 Adding line2
 My class is Devops
+Clone GitHub repository using Visual Studio Code IDE
